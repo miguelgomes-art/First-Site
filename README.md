@@ -1,1 +1,2 @@
-This was my first published project. It was an HTML and CSS project, in which I tried to use as many tools from both languages as possible. The information used is fictional and only serves to fill the space on the website.
+In this portfolio, I present the projects I have developed since I started programming. During this period, I have progressively improved my skills in Python, SQL, and Power BI, applying them in real-world exercises and personal learning challenges.
+These projects reflect my evolution as a programmer, from basic concepts to more structured and data-driven solutions. My goal is to continue improving and exploring new tools.
