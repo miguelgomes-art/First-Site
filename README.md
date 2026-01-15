@@ -1,0 +1,1 @@
+This was my first published project. It was an HTML and CSS project, in which I tried to use as many tools from both languages as possible. The information used is fictional and only serves to fill the space on the website.
